@@ -108,9 +108,9 @@ o    Class Involved : 'Load_books'
 -   **Proses Peminjaman**
 -   ![use case Proses Peminjaman drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/8fe166cf-09fa-45b5-bc20-bd8535c5e2e5)
 -   **Pengembalian Buku**
-=   ![use case Pengembalian Buku drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/13e37900-01af-437c-95fb-c1d1c1bac434)
+-   ![use case Pengembalian Buku drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/13e37900-01af-437c-95fb-c1d1c1bac434)
 -   **Penambahan Buku**
-=   ![use case Penambahan Buku drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/be04bf07-0c7b-4dc4-8740-793e6bd2e308)
+-   ![use case Penambahan Buku drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/be04bf07-0c7b-4dc4-8740-793e6bd2e308)
 -   **Melihat Data Peminjaman**
 -   ![use case Melihat Riwayat drawio](https://github.com/Bintngpr/UTS_AdrielleBintang_422023021/assets/155137148/d2c0c773-b821-4f14-ab85-c40c775302a8)
   
