@@ -46,28 +46,28 @@
 ## Book Management Subcomponents
 
 -   **Display Books**
--    Bertanggung jawab untuk menampilkan daftar buku yang tersedia.
--    Class Involved : 'Display_books'
+o    Bertanggung jawab untuk menampilkan daftar buku yang tersedia.
+o    Class Involved : 'Display_books'
 
 
 -   **Issue Books**
--    Menangani proses peminjaman buku kepada user.
--    Class Involved : 'Issue_books'
+o    Menangani proses peminjaman buku kepada user.
+o    Class Involved : 'Issue_books'
 
 
 -   **Return Books**
--    Mengelola proses pengembalian buku ke e-library
--    Class Involved : 'Return_books'
+o    Mengelola proses pengembalian buku ke e-library
+o    Class Involved : 'Return_books'
 
 
 -   **Add Books**
--    Mengelola penambahan buku baru ke e-library
--    Class Involved : 'Add_books'
+o    Mengelola penambahan buku baru ke e-library
+o    Class Involved : 'Add_books'
 
 
 -   **Load Books**
--    Memuat daftar awal buku dari sebuah file
--    Class Involved : 'Load_books'
+o    Memuat daftar awal buku dari sebuah file
+o    Class Involved : 'Load_books'
 
 ## Main Component
 -   Mengkoordinasikan interaksi antara antarmuka pengguna dan sistem manajemen perpustakaan
